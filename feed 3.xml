@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Saige Carter&#x27;s Website</title>
+    <link href="https://saigecarter.github.io/websiteshell/feed.xml" rel="self" />
+    <link href="https://saigecarter.github.io/websiteshell" />
+    <updated>2024-02-05T17:00:56-08:00</updated>
+    <author>
+        <name>Saige Carter</name>
+    </author>
+    <id>https://saigecarter.github.io/websiteshell</id>
+
+    <entry>
+        <title>Welcome to my Website Shell!</title>
+        <author>
+            <name>Saige Carter</name>
+        </author>
+        <link href="https://saigecarter.github.io/websiteshell/welcome.html"/>
+        <id>https://saigecarter.github.io/websiteshell/welcome.html</id>
+
+        <updated>2024-02-05T17:00:56-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello, there! You have just stepped into the digital realm of Saige's Website. Right now, there is not much to see, but here, you can learn more about me and my upcoming project. Since this is a course on digital storytelling, and a digital humanities&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello, there! </p>
+<p>You have just stepped into the digital realm of Saige's Website. Right now, there is not much to see, but here, you <em>can</em> learn more about me and my upcoming project. </p>
+<figure class="post__video"><figure class="post__image"><img loading="lazy"  src="https://gifdb.com/images/high/waving-bear-welcome-ut80igngdxwd6ijr.gif" alt="" width="201" height="201" data-is-external-image="true"></figure></figure>
+<p>Since this is a course on digital storytelling, and a digital humanities project, I thought that I would share one of my favorite youtube video essays, about the Netflix series <em>Arcane</em>. </p>
+<hr>
+<p>This video discusses how women from the video game League of Legends are brilliantly written in the series to portray honest depictions of diverse female characters. I find this video important because many of the characters originally relied on misogynistic or stereotypical tropes in the video game. </p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/hML-FGHGEN4" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p>I hope that if you end up watching this video, you enjoy it!</p>
+<p>Cheers, </p>
+<p>Saige</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

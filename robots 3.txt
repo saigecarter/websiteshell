@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://saigecarter.github.io/websiteshell/sitemap.xml
